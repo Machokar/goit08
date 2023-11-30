@@ -40,3 +40,4 @@ form.addEventListener('submit', (event) => {
   event.currentTarget.reset()
 });
 loadFromLocalStorage();
+// finally
